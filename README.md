@@ -5,13 +5,13 @@
   <a href="https://arxiv.org/abs/2410.15416">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.15416-b31b1b.svg">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/sfi-norwai/CaTT">
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/sfi-norwai/CaTT">
-  <img alt="Stars" src="https://img.shields.io/github/stars/sfi-norwai/CaTT?style=social">
+  <img alt="License" src="https://img.shields.io/github/license/sfi-norwai/eMargin">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/sfi-norwai/eMargin">
+  <img alt="Stars" src="https://img.shields.io/github/stars/sfi-norwai/eMargin?style=social">
 </p>
 
 <p align="center">
-  <a href="https://ldd.kssk.pwr.edu.pl/.eu/">
+  <a href="https://ldd.kssk.pwr.edu.pl">
     <img alt="LDD Workshop (ECAI 2025) Accepted" src="https://img.shields.io/badge/Accepted%20at-LDD Workshop (ECAI%202025)-blueviolet">
   </a>
 </p>
