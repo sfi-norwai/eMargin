@@ -113,7 +113,7 @@ If you use **eMargin** in your research, please consider citing it as follows:
 
 ```bibtex
 @misc{eMargin2025,
-      title={ReMargin: Revisiting Contrastive Learning with Margin-Based Separation}, 
+      title={eMargin: Revisiting Contrastive Learning with Margin-Based Separation}, 
       author={Abdul-Kazeem Shamba and Kerstin Bach and Gavin Taylor},
       year={2025},
       eprint={2410.15416},
