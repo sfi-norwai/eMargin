@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://ecai2025.eu/">
-    <img alt="ECAI 2025 Accepted" src="https://img.shields.io/badge/Accepted%20at-ECAI%202025-blueviolet">
+    <img alt="LDD Workshop (ECAI 2025) Accepted" src="https://img.shields.io/badge/Accepted%20at-ECAI%202025-blueviolet">
   </a>
 </p>
 
