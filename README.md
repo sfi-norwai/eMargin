@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://ldd.kssk.pwr.edu.pl/.eu/">
+  <a href="https://ldd.kssk.pwr.edu.pl/.eu/">
     <img alt="LDD Workshop (ECAI 2025) Accepted" src="https://img.shields.io/badge/Accepted%20at-LDD Workshop (ECAI%202025)-blueviolet">
   </a>
 </p>
