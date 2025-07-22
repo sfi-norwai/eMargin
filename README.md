@@ -2,8 +2,8 @@
 <h2 align="center">eMargin: Revisiting Contrastive Learning with Margin-Based Separation</h2>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2410.15416">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.15416-b31b1b.svg">
+  <a href="https://arxiv.org/abs/2507.14828">
+    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.14828-b31b1b.svg">
   </a>
   <img alt="License" src="https://img.shields.io/github/license/sfi-norwai/eMargin">
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/sfi-norwai/eMargin">
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-This repository contains the official Pytorch implementation of the "[**eMargin: Revisiting Contrastive Learning with Margin-Based Separation**](https://arxiv.org/abs/2410.15416)" paper (LDD Workshop at ECAI 2025), which explores the introduction of an adaptive margin (eMargin), adjusted
+This repository contains the official Pytorch implementation of the "[**eMargin: Revisiting Contrastive Learning with Margin-Based Separation**](https://arxiv.org/abs/2507.14828)" paper (LDD Workshop at ECAI 2025), which explores the introduction of an adaptive margin (eMargin), adjusted
 based on a predefined similarity threshold to improve the separation
 between adjacent but dissimilar time steps and subsequently, and evaluated on clustering performance and classification in three benchmark datasets.
 
@@ -112,12 +112,12 @@ Please check out the original repositories for more details.
 If you use **eMargin** in your research, please consider citing it as follows:
 
 ```bibtex
-@misc{eMargin2025,
+@misc{emargin2025,
       title={eMargin: Revisiting Contrastive Learning with Margin-Based Separation}, 
       author={Abdul-Kazeem Shamba and Kerstin Bach and Gavin Taylor},
       year={2025},
-      eprint={2410.15416},
+      eprint={2507.14828},
       archivePrefix={arXiv},
       primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2410.15416}, 
+      url={https://arxiv.org/abs/2507.14828}, 
 }
