@@ -18,6 +18,7 @@ import wandb
 import tasks
 import argparse
 import random
+from baselines.cpc import CPC
 import src.data
 from src.loader.dataloader import STFTDataset, SLEEPDataset
 from torch.utils.data import Subset
@@ -211,6 +212,13 @@ if __name__ == "__main__":
 
             elif pargs.model == 'SimMTM':
                 model = SimMTM(
+                    args,
+                    config,
+                    device=device
+                )
+
+            elif pargs.model == 'CPC':
+                model = CPC(
                     args,
                     config,
                     device=device
